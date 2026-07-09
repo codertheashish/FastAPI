@@ -231,4 +231,4 @@ This project stores data in a Python list, so all data will be lost when the ser
 GitHub:<br>
 https://github.com/codertheashish <br>
 Linkedin : <br>
-https://linkedin.com/codertheashish
+https://linkedin.com/in/codertheashish
